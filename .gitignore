@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+firebase-service-key.json
+
+
+uploads
+index.html
+tracking.html
+
+.vscode
